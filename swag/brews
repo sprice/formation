@@ -1,10 +1,11 @@
 asciinema
 git
-tig
-mas
-wget
+gnupg
 hub
 hugo
-starship
-yarn
+mas
 rbenv
+starship
+tig
+wget
+yarn
